@@ -1,5 +1,5 @@
 # Big O Complexity
-I create this repository where I will store some code with it Big O complexity
+I created this repository where I classify some code with it Big O time complexity
 
 # Contributors
 Feel Free to contribute with code and it's complexity!
